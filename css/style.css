@@ -41,7 +41,9 @@ img{
     color: white;
 }
  /*Menu*/
-
+ html {
+    scroll-behavior: smooth;
+  }
  .menu-bg{
     background-color: #2c70ff;
  }
