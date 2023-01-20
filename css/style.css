@@ -357,7 +357,7 @@ img{
 .footer{
     display: flex;
     background: #2c70ff;
-    height: 90px;
+    height: 200px;
     align-items: center;
 }
 .footer p{
